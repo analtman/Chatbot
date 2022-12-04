@@ -278,7 +278,7 @@ html, body {
   width: 50px;
 }
 #chat-wrapper #chat-message-window #chat-message-column-wrapper #chat-message-column .message .content {
-  background-color: white;
+  background-color: white; 
   border-radius: 25px;
   box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 6px, rgba(0, 0, 0, 0.12) 0px 1px 4px;
   display: inline-block;
@@ -292,7 +292,7 @@ html, body {
   z-index: 1;
 }
 #chat-wrapper #chat-message-window #chat-message-column-wrapper #chat-message-column .message .content .text {
-  color: #b4b4b4;
+  color: #D68A87;
   font-size: 1em;
   font-weight: 300;
   margin: 0px;
