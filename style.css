@@ -20,7 +20,7 @@ html, body {
 }
 
 #chat-wrapper {
-  background-color: white;
+  background-color: linear-gradient(#eeaeca, #94bbe9);
   height: 100%;
   overflow: hidden;
   width: 100%;
@@ -40,7 +40,7 @@ html, body {
   color: #03a9f4;
 }
 #chat-wrapper #chat-bot-mood.suspicious #chat-bot-mood-icon {
-  background: linear-gradient(to right, #d32f2f, #ff6f00);
+  background: linear-gradient(to right, #d32f2f, #d785f0);
 }
 #chat-wrapper #chat-bot-mood.suspicious #chat-bot-mood-label #chat-bot-mood-value {
   color: #d32f2f;
