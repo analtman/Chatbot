@@ -20,7 +20,8 @@ html, body {
 }
 
 #chat-wrapper {
-  background-color: linear-gradient(#eeaeca, #94bbe9);
+  background-color: white; 
+  background-image: linear-gradient(#eeaeca, #94bbe9); 
   height: 100%;
   overflow: hidden;
   width: 100%;
@@ -94,7 +95,7 @@ html, body {
   z-index: 1;
 }
 #chat-wrapper #letter-pool .pool-letter, #chat-wrapper #letter-pool .temp-letter, #chat-wrapper #temp-letter-pool .pool-letter, #chat-wrapper #temp-letter-pool .temp-letter {
-  color: #d2d2d2;
+  color: #44E0A6;
   display: inline-block;
   font-weight: 300;
   position: absolute;
